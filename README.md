@@ -4,8 +4,10 @@
   <img src="Images/65628425735962.jpg" width="200" hight="200">
 </p></br>
 
-🕵️Forensic  is the application of science to investigate crimes and establish facts.</br>
-👩‍💻digital forensic is branch of forensics science  that envolves investigation, recovering, analyzing and examinating digital evidence from various devices that can store digital data.
+> ### 🕵️Forensic  
+ is the application of science to investigate crimes and establish facts.</br>
+> ### 👩‍💻digital forensics
+ is branch of forensics science  that envolves investigation, recovering, analyzing and examinating digital evidence from various devices that can store digital data.
 <p align="center">
   <img src="Images/f1.jpg" width="400" hight="300">
   <img src="Images/28425735962.png" width="400" hight="300">
