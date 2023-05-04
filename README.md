@@ -1,5 +1,4 @@
 <h1 align="center"> Digital_Forensics </h1>
-<h3 align="center">🕵️ Learn about digital forensics </h3>
 <p align="center">
   <img src="Images/28425735962.jpg" width="300" hight="200">
   <img src="Images/65628425735962.jpg" width="200" hight="200">
