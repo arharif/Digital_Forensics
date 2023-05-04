@@ -30,4 +30,4 @@ At the lab, the process goes as follows:
 - Start processing the copy on your forensic workstation.(use hash value for confirm that a file has not been modified).
 - Reporting</br>
 
-⛓️ Chain of custody (it help to establish the continuity and reliability of the evidence)
+⛓️ Chain of custody (chronological documentation )(it help to establish the continuity and reliability of the evidence)
