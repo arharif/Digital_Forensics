@@ -8,10 +8,7 @@
  is the application of science to investigate crimes and establish facts.</br>
 > ### 👩‍💻digital forensics
  is branch of forensics science  that envolves investigation, recovering, analyzing and examinating digital evidence from various devices that can store digital data.
-<p align="center">
-  <img src="Images/f1.jpg" width="400" hight="300">
-  <img src="Images/28425735962.png" width="400" hight="300">
-</p></br>
+
 
 > ### What should you do as a digital forensic investigator?
 
